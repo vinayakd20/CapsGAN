@@ -11,7 +11,7 @@ from config import cfg
 from utils import reduce_sum
 from capsLayer import CapsLayer
 from tensorflow.examples.tutorials.mnist import input_data
-#import sys
+import sys
 #sys.path.append('capslayer')
 #sys.path.append('models')
 
